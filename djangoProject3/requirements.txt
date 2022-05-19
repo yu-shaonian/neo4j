@@ -1,0 +1,6 @@
+ahocorasick==0.9
+Django==3.2.12
+lxml==4.8.0
+py2neo==4.3.0
+pyahocorasick==1.4.4
+pymongo==4.1.1
